@@ -4,6 +4,9 @@ This is a simple yet powerful web-based dictionary application built with HTML, 
 
 Screenshot :-
 
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/9143f390-e7cb-4821-98e5-5794e09aecaa" />
+
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/7ead473d-0439-45bd-800a-714db7db0686" />
 
 Features
 
